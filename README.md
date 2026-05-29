@@ -30,8 +30,8 @@ I'm **[`Sijin`](linkedin.com/in/sijindaniel-sjn)**, a Certified Ethical Hacker w
       <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
-      <img src="https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+      <img src="https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
+      <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
      
